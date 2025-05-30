@@ -5,12 +5,12 @@ This is a Java console-based application built using Hibernate ORM to manage stu
 ## 📌 Specifications
 
 - **Language**: Java  
-- **ORM Framework**: Hibernate (JPA annotations)  
-- **Build Tool**: Maven  
-- **Database**: MySQL / H2 (configurable in `hibernate.cfg.xml`)  
+- **ORM Framework**: Hibernate 7.0 (JPA annotations)  
+- **Build Tool**: Maven 1.4
+- **Database**: MySQL 8.0 / H2 (configurable in `hibernate.cfg.xml`)  
 - **CSV Library**: OpenCSV  
-- **IDE Recommended**: IntelliJ IDEA / Eclipse  
-- **Java Version**: Java 8 or higher  
+- **IDE Recommended**: VS Code
+- **Java Version**: Java 21 
 
 ---
 
