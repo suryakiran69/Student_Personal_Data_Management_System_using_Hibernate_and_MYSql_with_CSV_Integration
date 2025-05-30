@@ -38,42 +38,7 @@ All data is persisted using Hibernate, making it ideal for educational instituti
 
 ---
 
-## 📁 Project Structure
-src/
-└── main/
-    └── java/
-        └── com/
-            └── surya/
-                ├── App.java                # Main application logic
-                ├── data_class.java        # Entity class (with JPA annotations)
-    └── resources/
-        └── hibernate.cfg.xml             # Hibernate configuration file
-        └── ece_database_csv.csv          # CSV source file (put this in src/main/resources or update path)
 
-## 🧩 Dependencies (via Maven)
-
-  <dependencies>
-      <!-- Hibernate -->
-      <dependency>
-          <groupId>org.hibernate</groupId>
-          <artifactId>hibernate-core</artifactId>
-          <version>5.4.2.Final</version>
-      </dependency>
-  
-      <!-- MySQL Connector (or change to H2 if needed) -->
-      <dependency>
-          <groupId>mysql</groupId>
-          <artifactId>mysql-connector-java</artifactId>
-          <version>8.0.19</version>
-      </dependency>
-  
-      <!-- OpenCSV -->
-      <dependency>
-          <groupId>com.opencsv</groupId>
-          <artifactId>opencsv</artifactId>
-          <version>5.2</version>
-      </dependency>
-  </dependencies>
 
   ## 🧑‍💻 Usage
 
