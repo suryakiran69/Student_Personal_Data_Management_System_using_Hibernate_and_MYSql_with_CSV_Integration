@@ -67,7 +67,7 @@ Upon running, the console will present the following options:
 ## 👤 Author
 
 **Naralasetti Umesh Surya Kiran**  
-Final Year B.Tech | Java & Embedded Systems Enthusiast  
+Final Year B.Tech | Java Backend Enthusiast  
 LinkedIn: [linkedin.com/in/surya-kiran](https://linkedin.com/in/surya-kiran)
 
 ---
